@@ -13,7 +13,9 @@ export const VALIDGUESSES = [
 'wach', 
 'slip',
 'taya',
-'krep' 
+'krep', 
+'bobo', 
+'titi',
 ]
 
 if (CONFIG.normalization) {
